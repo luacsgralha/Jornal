@@ -1,0 +1,135 @@
+body{
+    background-color:#ebf3e7;
+    font-family:sans-serif;
+    text-align: justify;
+    line-height: 1.6;
+    
+}
+
+.divtopo{
+    background-color: #22381d;
+    color: #22381d;
+    float: left;
+    width: 100%;
+
+}
+
+.div1, .div2, .div3, .div4{
+    background-color: #679267;
+    float: left;
+    width: 25%;
+
+}
+
+
+aside{
+    background-color: #c6e5b1;
+    float: right;
+}
+
+
+a:hover{
+    color: #3a6332;
+    text-decoration: none;
+}
+
+.div1, .div2, .div3, .div4{
+    background-color: #679267;
+    float: left;
+    width: 25%;
+
+}
+
+
+a{
+    color: #22381d;
+    text-decoration: none;
+}
+
+
+
+main{
+    max-width: 960px;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    height: 65px;
+}
+
+.p1{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.clear{
+    clear: both;
+}
+
+
+
+h1:hover{
+    background-color: #d3f3c3;
+}
+
+
+
+section{
+    background-color: #fff;
+    border: 1px solid #aec9a1;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+
+section h2{
+    background-color: #fff;
+    border-bottom: 1px dashed #d1f5de;
+}
+
+section img{
+    border: 1px solid #B6D3B7;
+    float:left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    width: 150px;
+}
+
+article{
+    border: 1px solid white ;
+    float: left;
+    max-width: 700px;
+}
+
+
+hr{
+    border-width: 20px;
+    border-color: rgb(100, 139, 95);
+    
+}
+.JOGADOR-TENIS{
+   display: flex;
+   padding-right: 25px;
+
+}
+.JOGADOR-TENIS p{
+    padding-right: 15px;
+  
+}
+
+.fonte{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.principalClear{
+    clear: both;
+}
+
+.headerTitulo{
+    max-width: 1000px;
+    margin: auto;
+}
