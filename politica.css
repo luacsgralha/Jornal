@@ -1,0 +1,108 @@
+hr{
+    border-width: 20px;
+    border-color: rgb(100, 139, 95);
+}
+h1:hover{
+    background-color: #d3f3c3;
+    color: #fff;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: #ebf3e7;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.6;
+}
+.divtopo{
+    background-color: #22381d;
+    float: left;
+    text-decoration: none;
+    width: 100%;
+    color: #22381d;
+}
+.data{
+    text-align: center;
+}
+
+.div1, .div2, .div3, .div4{
+    background-color: #679267;
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+main{
+    margin: auto;
+    max-width: 960px; 
+}
+
+.clear{
+    clear: both;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    height: 65px;
+}
+
+p{
+    margin-top: 0;
+}
+
+section{
+    background-color: #fff;
+    border: 1px solid #aec9a1;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+
+section h2{
+    background-color: #fff;
+    border-bottom: 1px dashed #D1F5DE;
+}
+
+section img{
+    border: 1px solid #b6d3b7;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    width: 150px;
+}
+
+a:hover{
+    color: #346332;
+    text-decoration: none;
+}
+a{
+    color: #22361d;
+    text-decoration: none;
+}
+.publi{
+    float: right;
+    margin-left: 0%;
+    padding: 10px;
+}
+
+.principalClear{
+    clear: both;
+}
+
+.headerTitulo{
+    max-width: 1000px;
+    margin: auto;
+}
+.principal{
+    max-width: 1000px;
+    margin: auto;
+}
+
+.principalTexto{
+    max-width: 700px;
+    float: left;
+}
